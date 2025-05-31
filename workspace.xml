@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e23ff86c-bbc2-4329-abdd-6096a79cde62" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/Weather3.0/AIChatWindow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Weather3.0/AIChatWindow$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Weather3.0/AIChatWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Weather3.0/AIChatWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Weather3.0/CurrentWeatherWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Weather3.0/CurrentWeatherWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Weather3.0/ForecastWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Weather3.0/ForecastWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Weather3.0/MainMenuWindow$ButtonHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Weather3.0/MainMenuWindow$ButtonHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Weather3.0/MainMenuWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Weather3.0/MainMenuWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Weather3.0/SearchHistoryWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Weather3.0/SearchHistoryWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/forecast_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icons/01d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icons/01n.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icons/02d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icons/02n.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icons/03d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icons/03n.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icons/04d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icons/04n.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icons/09d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icons/09n.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icons/10d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icons/10n.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icons/11d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icons/11n.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icons/13d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icons/13n.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icons/50d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icons/50n.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/weather_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AIChatWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AIChatWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CurrentWeatherWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CurrentWeatherWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForecastWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForecastWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainMenuWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainMenuWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchHistoryWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchHistoryWindow.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2vVU3EMM0F37iCkLzAJcgRKNuBU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/UZAIR AHMAD/Weather3.0",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CurrentWeatherWindow">
+    <configuration name="CurrentWeatherWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CurrentWeatherWindow" />
+      <module name="Weather3.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForecastWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForecastWindow" />
+      <module name="Weather3.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoginWindow" />
+      <module name="Weather3.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainMenuWindow (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainMenuWindow" />
+      <module name="Weather3.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainMenuWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainMenuWindow" />
+      <module name="Weather3.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CurrentWeatherWindow" />
+        <item itemvalue="Application.MainMenuWindow" />
+        <item itemvalue="Application.ForecastWindow" />
+        <item itemvalue="Application.LoginWindow" />
+        <item itemvalue="Application.MainMenuWindow (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e23ff86c-bbc2-4329-abdd-6096a79cde62" name="Changes" comment="" />
+      <created>1744229536113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744229536113</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1744381433982</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744381433982</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+</project>
